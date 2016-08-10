@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YiBan-Light-Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-s"
+    }
+  }
+}
